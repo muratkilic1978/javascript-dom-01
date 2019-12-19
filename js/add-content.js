@@ -20,7 +20,7 @@ referenceNodeP.parentNode.insertBefore(newNodeBtn, referenceNodeP.nextSibling);
 
 // Create a new Footer element
 let newNodeFooter = document.createElement('FOOTER');
-newNodeFooter.innerHTML = 'Constructuve & Co. Real Estate';
+newNodeFooter.innerHTML = 'Constructive &amp; Co. Real Estate';
 newNodeFooter.classList.add("footer");
 
 // Get the reference node
