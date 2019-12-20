@@ -91,7 +91,7 @@ body{
   font-weight: 600;
 }
 
-.btn:hover {
+button.btn:hover {
   background-color: lightslategray; /* Green */
   border: none;
   color: white;
